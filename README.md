@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Desenvolvedor Full Stack</p>
+<p align="left">Cientista da Computação | Desenvolvedor Full Stack</p>
 
 ###
 
