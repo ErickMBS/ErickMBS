@@ -67,7 +67,7 @@
 
 <br clear="both">
 
-<img href="[https://raw.githubusercontent.com/ErickMBS/ErickMBS/blob/output/snake.svg](https://github.com/ErickMBS/ErickMBS/blob/output/snake.svg)" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ErickMBS/ErickMBS/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
