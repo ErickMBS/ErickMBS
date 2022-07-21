@@ -67,9 +67,7 @@
 
 <br clear="both">
 
-![snake gif]
-(https://github.com/ErickMBS/ErickMBS/blob/output/snake.svg)
-<img href="https://raw.githubusercontent.com/ErickMBS/ErickMBS/blob/output/snake.svg" alt="Snake animation" />
+<img href="[https://raw.githubusercontent.com/ErickMBS/ErickMBS/blob/output/snake.svg](https://github.com/ErickMBS/ErickMBS/blob/output/snake.svg)" alt="Snake animation" />
 
 ###
 
