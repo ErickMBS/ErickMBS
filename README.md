@@ -89,7 +89,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://cursos.alura.com.br/user/erickmth-braga" target="_blank">
-    <img src="https://yt3.ggpht.com/xqhIoXspeX7eqouJvNHl1xqpv9213Pl26ENZbuouXxO2RlDadjsveNXfgnj8GTUk7thFYUkVRg=s900-c-k-c0x00ffffff-no-rj" height="35" alt="linkedin logo"  />
+    <img src="https://i.pinimg.com/736x/1a/ce/ab/1aceabffcccf60a0ad7bd3c1b9e9d69c.jpg" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
