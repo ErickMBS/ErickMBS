@@ -88,6 +88,9 @@
   <a href="https://www.linkedin.com/in/%C3%A9rick-matheus-braga-1963bb167/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="https://cursos.alura.com.br/user/erickmth-braga" target="_blank">
+    <img src="https://yt3.ggpht.com/xqhIoXspeX7eqouJvNHl1xqpv9213Pl26ENZbuouXxO2RlDadjsveNXfgnj8GTUk7thFYUkVRg=s900-c-k-c0x00ffffff-no-rj" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
